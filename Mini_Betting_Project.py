@@ -190,4 +190,3 @@ print('I finshed with $' + str(money))
 
 
 
-#Call your game of chance functions here
